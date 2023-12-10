@@ -45,8 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
-
+  "I am Hamza Khattak, I'm Alpha Microsoft Student Ambassador, Undergraduate computer science student at International Islamic University Islamabad. I'm full stack web developer with a strong love for JavaScript! :)."
 const About = () => {
   return (
     <section className="padding" id="about">
